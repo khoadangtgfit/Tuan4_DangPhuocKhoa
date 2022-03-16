@@ -80,3 +80,4 @@ D:\WebForm\Tuan4\Tuan4\obj\Debug\Tuan4_DangPhuocKhoa.csproj.CoreCompileInputs.ca
 D:\WebForm\Tuan4\Tuan4\obj\Debug\Tuan4_DangPhuocKhoa.csproj.CopyComplete
 D:\WebForm\Tuan4\Tuan4\obj\Debug\Tuan4.dll
 D:\WebForm\Tuan4\Tuan4\obj\Debug\Tuan4.pdb
+D:\WebForm\Tuan4\Tuan4\obj\Debug\Tuan4_DangPhuocKhoa.csproj.AssemblyReference.cache
