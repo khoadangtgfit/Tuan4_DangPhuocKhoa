@@ -15,7 +15,7 @@ namespace Tuan4.Controllers
         {
             if (page == null) page = 1;
             var all_sach = (from s in data.Saches select s).OrderBy(m => m.masach);
-            int pageSize = 1;
+            int pageSize = 3;
             int pageNum = page ?? 1;
             return View(all_sach.ToPagedList(pageNum, pageSize));
         }
